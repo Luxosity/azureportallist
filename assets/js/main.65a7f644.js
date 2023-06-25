@@ -19568,11 +19568,11 @@
       "use strict";
       n.r(t), n.d(t, { default: () => r });
       const r = {
-        title: "[luxosity.github.io]",
+        title: "[itjak.io]",
         tagline:
-          "Luxosity: The Microsoft cloud command line for Microsoft 365 | Azure | Security!",
-        url: "https://luxosity.github.io",
-        baseUrl: "/azureportallist/",
+          "ITJAK.IO: The Microsoft cloud command line for Microsoft 365 | Azure | Security!",
+        url: "https://itjak.io",
+        baseUrl: "/",
         onBrokenLinks: "throw",
         onBrokenMarkdownLinks: "warn",
         favicon: "favicon.ico",
