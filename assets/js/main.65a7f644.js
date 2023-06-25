@@ -322,71 +322,71 @@
       }
       const p = [
         {
-          path: "/azureportallist/start",
-          component: f("/azureportallist/start", "0bb"),
+          path: "/start",
+          component: f("/start", "0bb"),
           exact: !0,
         },
         {
-          path: "/azureportallist/",
-          component: f("/azureportallist/", "aa3"),
+          path: "/",
+          component: f("/", "aa3"),
           routes: [
             {
-              path: "/azureportallist/",
-              component: f("/azureportallist/", "6bf"),
+              path: "/",
+              component: f("/", "6bf"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/docs/contributing",
-              component: f("/azureportallist/docs/contributing", "b1c"),
+              path: "/docs/contributing",
+              component: f("/docs/contributing", "b1c"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/docs/related",
-              component: f("/azureportallist/docs/related", "140"),
+              path: "/docs/related",
+              component: f("/docs/related", "140"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/docs/tips",
-              component: f("/azureportallist/docs/tips", "10f"),
+              path: "/docs/tips",
+              component: f("/docs/tips", "10f"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/portals/azure",
-              component: f("/azureportallist/portals/azure", "9dd"),
+              path: "/portals/azure",
+              component: f("/portals/azure", "9dd"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/portals/azuread",
-              component: f("/azureportallist/portals/azuread", "61c"),
+              path: "/portals/azuread",
+              component: f("/portals/azuread", "61c"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/portals/defender",
-              component: f("/azureportallist/portals/defender", "443"),
+              path: "/portals/defender",
+              component: f("/portals/defender", "443"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/portals/intune",
-              component: f("/azureportallist/portals/intune", "8dd"),
+              path: "/portals/intune",
+              component: f("/portals/intune", "8dd"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/portals/m365",
-              component: f("/azureportallist/portals/m365", "5cb"),
+              path: "/portals/m365",
+              component: f("/portals/m365", "5cb"),
               exact: !0,
               sidebar: "docs",
             },
             {
-              path: "/azureportallist/portals/mypages",
-              component: f("/azureportallist/portals/mypages", "dca"),
+              path: "/portals/mypages",
+              component: f("/portals/mypages", "dca"),
               exact: !0,
               sidebar: "docs",
             },
@@ -787,7 +787,7 @@
       var r = n(7294),
         a = n(6809);
       const o = JSON.parse(
-          '{"docusaurus-plugin-content-docs":{"default":{"path":"/azureportallist/","versions":[{"name":"current","label":"Next","isLast":true,"path":"/azureportallist/","mainDocId":"index","docs":[{"id":"docs/contributing","path":"/azureportallist/docs/contributing","sidebar":"docs"},{"id":"docs/related","path":"/azureportallist/docs/related","sidebar":"docs"},{"id":"docs/tips","path":"/azureportallist/docs/tips","sidebar":"docs"},{"id":"index","path":"/azureportallist/","sidebar":"docs"},{"id":"portals/azure","path":"/azureportallist/portals/azure","sidebar":"docs"},{"id":"portals/azuread","path":"/azureportallist/portals/azuread","sidebar":"docs"},{"id":"portals/defender","path":"/azureportallist/portals/defender","sidebar":"docs"},{"id":"portals/intune","path":"/azureportallist/portals/intune","sidebar":"docs"},{"id":"portals/m365","path":"/azureportallist/portals/m365","sidebar":"docs"},{"id":"portals/mypages","path":"/azureportallist/portals/mypages","sidebar":"docs"}],"draftIds":[],"sidebars":{"docs":{"link":{"path":"/azureportallist/","label":"index"}}}}],"breadcrumbs":true}}}'
+          '{"docusaurus-plugin-content-docs":{"default":{"path":"/","versions":[{"name":"current","label":"Next","isLast":true,"path":"/","mainDocId":"index","docs":[{"id":"docs/contributing","path":"/docs/contributing","sidebar":"docs"},{"id":"docs/related","path":"/docs/related","sidebar":"docs"},{"id":"docs/tips","path":"/docs/tips","sidebar":"docs"},{"id":"index","path":"/","sidebar":"docs"},{"id":"portals/azure","path":"/portals/azure","sidebar":"docs"},{"id":"portals/azuread","path":"/portals/azuread","sidebar":"docs"},{"id":"portals/defender","path":"/portals/defender","sidebar":"docs"},{"id":"portals/intune","path":"/portals/intune","sidebar":"docs"},{"id":"portals/m365","path":"/portals/m365","sidebar":"docs"},{"id":"portals/mypages","path":"/portals/mypages","sidebar":"docs"}],"draftIds":[],"sidebars":{"docs":{"link":{"path":"/","label":"index"}}}}],"breadcrumbs":true}}}'
         ),
         i = JSON.parse(
           '{"defaultLocale":"en","locales":["en"],"path":"i18n","currentLocale":"en","localeConfigs":{"en":{"label":"English","direction":"ltr","htmlLang":"en","calendar":"gregory","path":"en"}}}'
@@ -19817,7 +19817,7 @@
     6887: (e) => {
       "use strict";
       e.exports = JSON.parse(
-        '{"/azureportallist/start-0bb":{"__comp":"4b5857c1","__context":{"plugin":"5eead4b6"},"config":"5e9f5e1a"},"/azureportallist/-aa3":{"__comp":"1be78505","__context":{"plugin":"dfc210c5"},"versionMetadata":"935f2afb"},"/azureportallist/-6bf":{"__comp":"17896441","content":"4edc808e"},"/azureportallist/docs/contributing-b1c":{"__comp":"17896441","content":"b77d5b96"},"/azureportallist/docs/related-140":{"__comp":"17896441","content":"acc3c76a"},"/azureportallist/docs/tips-10f":{"__comp":"17896441","content":"4b86e6ca"},"/azureportallist/portals/azure-9dd":{"__comp":"17896441","content":"1c35b250"},"/azureportallist/portals/azuread-61c":{"__comp":"17896441","content":"c0c030be"},"/azureportallist/portals/defender-443":{"__comp":"17896441","content":"e3c61b26"},"/azureportallist/portals/intune-8dd":{"__comp":"17896441","content":"40381b91"},"/azureportallist/portals/m365-5cb":{"__comp":"17896441","content":"8d64a6d6"},"/azureportallist/portals/mypages-dca":{"__comp":"17896441","content":"96563ca7"}}'
+        '{"/start-0bb":{"__comp":"4b5857c1","__context":{"plugin":"5eead4b6"},"config":"5e9f5e1a"},"/-aa3":{"__comp":"1be78505","__context":{"plugin":"dfc210c5"},"versionMetadata":"935f2afb"},"/-6bf":{"__comp":"17896441","content":"4edc808e"},"/docs/contributing-b1c":{"__comp":"17896441","content":"b77d5b96"},"/docs/related-140":{"__comp":"17896441","content":"acc3c76a"},"/docs/tips-10f":{"__comp":"17896441","content":"4b86e6ca"},"/portals/azure-9dd":{"__comp":"17896441","content":"1c35b250"},"/portals/azuread-61c":{"__comp":"17896441","content":"c0c030be"},"/portals/defender-443":{"__comp":"17896441","content":"e3c61b26"},"/portals/intune-8dd":{"__comp":"17896441","content":"40381b91"},"/portals/m365-5cb":{"__comp":"17896441","content":"8d64a6d6"},"/portals/mypages-dca":{"__comp":"17896441","content":"96563ca7"}}'
       );
     },
   },
