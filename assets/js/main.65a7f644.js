@@ -19629,7 +19629,7 @@
                 ],
               },
             ],
-            copyright: "Copyright \xa9 2023 ITJAk LLC.",
+            copyright: "Copyright \xa9 2023 ITJAK LLC.",
           },
           prism: {
             theme: {
