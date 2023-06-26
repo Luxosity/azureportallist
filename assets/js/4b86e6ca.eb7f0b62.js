@@ -26,10 +26,10 @@
           id: "docs/tips",
           title: "\ud83d\udd25 Power User Tips",
           description: "\ud83d\udd25 Power User Tips",
-          source: "@site/docs/docs/tips.md",
+          source: "@site/docs/tips/tips.md",
           sourceDirName: "docs",
-          slug: "/docs/tips",
-          permalink: "/docs/tips",
+          slug: "/tips",
+          permalink: "/tips",
           draft: !1,
           editUrl:
             "https://github.com/Luxosity/azureportallist/blob/gh-pages/docs/tips/tips.md",
@@ -46,7 +46,7 @@
           previous: { title: "My Pages", permalink: "/portals/mypages" },
           next: {
             title: "\u270d\ufe0f Contributing",
-            permalink: "/docs/contributing",
+            permalink: "/contributing",
           },
         },
         m = {},

@@ -22,10 +22,10 @@
           title: "\ud83d\udc4c Related",
           description:
             "If you like [itjak.io] make sure you check out these awesome resources that are related to [itjak.io].",
-          source: "@site/docs/docs/related.md",
+          source: "@site/docs/related/related.md",
           sourceDirName: "docs",
-          slug: "/docs/related",
-          permalink: "/docs/related",
+          slug: "/related",
+          permalink: "/related",
           draft: !1,
           editUrl:
             "https://github.com/Luxosity/azureportallist/blob/gh-pages/docs/related/related.md",
@@ -36,7 +36,7 @@
           sidebar: "docs",
           previous: {
             title: "\u270d\ufe0f Contributing",
-            permalink: "/docs/contributing",
+            permalink: "/contributing",
           },
         },
         i = {},

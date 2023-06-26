@@ -21,10 +21,10 @@
           id: "docs/contributing",
           title: "\u270d\ufe0f Contributing",
           description: "Adding a new command to [itjak.io]",
-          source: "@site/docs/docs/contributing.md",
+          source: "@site/docs/contributing/contributing.md",
           sourceDirName: "docs",
-          slug: "/docs/contributing",
-          permalink: "/docs/contributing",
+          slug: "/contributing",
+          permalink: "/contributing",
           draft: !1,
           editUrl:
             "https://github.com/Luxosity/azureportallist/blob/gh-pages/docs/contributing/contributing.md",
@@ -38,9 +38,9 @@
           sidebar: "docs",
           previous: {
             title: "\ud83d\udd25 Power User Tips",
-            permalink: "/docs/tips",
+            permalink: "/tips",
           },
-          next: { title: "\ud83d\udc4c Related", permalink: "/docs/related" },
+          next: { title: "\ud83d\udc4c Related", permalink: "/related" },
         },
         r = {},
         c = [
