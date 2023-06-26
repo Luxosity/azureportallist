@@ -106,7 +106,7 @@
                 "a",
                 {
                   parentName: "li",
-                  href: "https://github.com/Luxosity/azureportallist/blob/main/website/config/commands.csv",
+                  href: "https://github.com/Luxosity/azureportallist/blob/gh-pages/config/commands.csv",
                 },
                 "commands.csv"
               )

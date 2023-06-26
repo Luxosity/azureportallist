@@ -403,7 +403,7 @@
                             The preferable option is to create a pull request
                             which updates the
                             <a
-                              href="https://github.com/Luxosity/azureportallist/blob/main/website/config/commands.csv"
+                              href="https://github.com/Luxosity/azureportallist/blob/gh-pages/config/commands.csv"
                               target="_blank"
                               rel="noopener noreferrer"
                               >commands.csv</a
