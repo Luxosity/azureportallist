@@ -43,7 +43,7 @@
         ],
         "4b86e6ca": [
           () => Promise.all([n.e(592), n.e(31)]).then(n.bind(n, 2063)),
-          "@site/docs/docs/tips.md",
+          "@site/docs/tips/tips.md",
           2063,
         ],
         "4edc808e": [
@@ -81,12 +81,12 @@
         ],
         acc3c76a: [
           () => Promise.all([n.e(592), n.e(23)]).then(n.bind(n, 7067)),
-          "@site/docs/docs/related.md",
+          "@site/docs/related/related.md",
           7067,
         ],
         b77d5b96: [
           () => Promise.all([n.e(592), n.e(0)]).then(n.bind(n, 5971)),
-          "@site/docs/docs/contributing.md",
+          "@site/docs/contributing/contributing.md",
           5971,
         ],
         c0c030be: [
