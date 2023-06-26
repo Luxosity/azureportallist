@@ -8,7 +8,7 @@ title: ✍️ Contributing
 To add a new command to [cmd.ms] for your favorite Microsoft blade or portal you can either submit a form or better yet, create a pull request in GitHub.
 
 - To submit the form please head over to [Request a new command](https://github.com/merill/cmd/issues/new?assignees=&labels=enhancement&template=new-command-request.md&title=)
-- The preferable option is to create a pull request which updates the [commands.csv](https://github.com/merill/cmd/blob/main/website/config/commands.csv)
+- The preferable option is to create a pull request which updates the [commands.csv](https://github.com/Luxosity/azureportallist/blob/gh-pages/config/commands.csv)
 
 #### Command naming convention
 
