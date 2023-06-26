@@ -32,7 +32,7 @@
           permalink: "/docs/tips",
           draft: !1,
           editUrl:
-            "https://github.com/Luxosity/azureportallist/docs/docs/tips.md",
+            "https://github.com/Luxosity/azureportallist/blob/gh-pages/docs/tips/tips.md",
           tags: [],
           version: "current",
           sidebarPosition: 1,

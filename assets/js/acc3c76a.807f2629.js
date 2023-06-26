@@ -28,7 +28,7 @@
           permalink: "/docs/related",
           draft: !1,
           editUrl:
-            "https://github.com/Luxosity/azureportallist/docs/docs/related.md",
+            "https://github.com/Luxosity/azureportallist/blob/gh-pages/docs/related/related.md",
           tags: [],
           version: "current",
           sidebarPosition: 3,

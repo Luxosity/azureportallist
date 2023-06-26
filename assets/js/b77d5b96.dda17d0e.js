@@ -27,7 +27,7 @@
           permalink: "/docs/contributing",
           draft: !1,
           editUrl:
-            "https://github.com/Luxosity/azureportallist/docs/docs/contributing.md",
+            "https://github.com/Luxosity/azureportallist/blob/gh-pages/docs/contributing/contributing.md",
           tags: [],
           version: "current",
           sidebarPosition: 2,
